@@ -1,0 +1,15 @@
+settings:
+  application:
+    domain: http://localhost:8000
+    host: 0.0.0.0
+    ishttps: false
+    mode: dev
+    name: gofileconvert
+    port: "8000"
+    readtimeout: 1
+    writertimeout: 2
+  cos:
+    flag: false
+    secretid: xxx
+    secretkey: xxx
+    url: xxx
